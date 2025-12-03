@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning about systems development and design
 - 💞️ I'm looking to collaborate on something that helps people communicate and connect their brands with their potential users and customers
 - 📫 Contact me on my phone (11) 94425-7329
-- 😄 Pronouns: ni beautiful plus full stack developer
+- 😄 Pronouns: ni frontend developer
 - ⚡ Fun fact: oii hehe
 
 <!---
